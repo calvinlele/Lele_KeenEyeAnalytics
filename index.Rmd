@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "MyBlogLab"
 output: html_document
 ---
 
@@ -17,13 +17,15 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **My Blog Lab**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Wellcome to Keen Eye analytics. Anywone who need to discover what the true hidden behind the figures, Keen Eye Analytic is the place to be, It is the smart engine which induce a fast and enlightend decision. Levreaging of AI/ML, Keen Eye analytics foster intelligence in any kind of business: Baking, Marketing, Sales and Distribution, Telecom, E-comerce, Football...
+In few work we do the experiement design and we optimize and scale it with the machine.
+As you may know, "The price of light is less than the cost of darkness".
 
-## How to use
+## The pioneer
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Calvin LELE, : Statistician and Economics Engineer | Expert Marketing Strategy | Business Intelligence | Pricing strategy | Digital Marketing | Data scientist (AI/ML). [More about Me](https://www.linkedin.com/in/calvin-lele-6a69523b/)
 
 2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
 
@@ -35,7 +37,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Analytics Clinic: Inately intelligence business](https://crumplab.github.io)
 
 <a href = "https://crumplab.github.io">
 ![](images/logo.png)
